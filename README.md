@@ -1,3 +1,3 @@
-# aiml-journey
-<b><i>Exploring AI and Machine Learning concepts while developing coding skills in Python, SQL, and more.</b></i>
+#<b> AIML Roadmap</b>
+<b><i>Mathematics </b></i>
  <br>Author-Asmit Regmi(asmit)
